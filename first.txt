@@ -1,2 +1,2 @@
-get user data
+get user info
 hello

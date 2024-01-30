@@ -1,2 +1,2 @@
-git course demo
+git course
 hi
